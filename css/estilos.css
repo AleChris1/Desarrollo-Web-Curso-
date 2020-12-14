@@ -12,9 +12,22 @@ h6 {
     font-weight: normal;
 }
 
+
 h1 {
     font-size: 40px;
     line-height: 150%;
     letter-spacing: -0.2px;
     text-transform: uppercase;
+}
+
+.hero {
+    height: 300px;
+}
+
+.project-details {
+    width: 500px;
+}
+
+.project-imageContaner {
+    width: 500px;
 }
