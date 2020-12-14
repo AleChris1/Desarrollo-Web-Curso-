@@ -45,6 +45,11 @@ h1 strong {
     background-color: #1b2127;
 }
 
+.project {
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
 .project-details {
     width: 500px;
 }
