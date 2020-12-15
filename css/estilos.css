@@ -1,5 +1,6 @@
 body {
     font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
 }
 
 h1,
@@ -19,7 +20,8 @@ h1 {
     letter-spacing: -0.2px;
     text-transform: uppercase;
     color: white;
-    
+    /* margin-right: 520px;
+    margin-top: 0px; */
 }
 
 h1 strong {
@@ -29,6 +31,10 @@ h1 strong {
 .header {
     background-color: #1b2127;
     color: white;
+}
+
+.logo {
+    margin: 0;
 }
 
 .header a {
@@ -45,9 +51,23 @@ h1 strong {
     background-color: #1b2127;
 }
 
+.portfolio {
+    background-color: #fafafa;
+}
+
 .project {
+    background-color: white;
     border: 1px solid gray;
     border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 20px;
+    margin: 10px;
+    margin-bottom: 15px;
+}
+
+.portfolio h2 {
+    margin-top: 0px;
+    padding: 20px;
 }
 
 .project-details {
