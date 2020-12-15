@@ -3,6 +3,11 @@ body {
     margin: 0;
 }
 
+.header {
+    background-color: #1b2127;
+    color: white;
+}
+
 h1,
 h2,
 h3,
@@ -13,6 +18,9 @@ h6 {
     font-weight: normal;
 }
 
+.menu ol {
+    margin-bottom: 1px;
+}
 
 h1 {
     font-size: 40px;
@@ -20,18 +28,14 @@ h1 {
     letter-spacing: -0.2px;
     text-transform: uppercase;
     color: white;
-    /* margin-right: 520px;
-    margin-top: 0px; */
+    margin-right: 520px;
+    margin-top: 0px;
 }
 
 h1 strong {
     color: #026fff;
 }
 
-.header {
-    background-color: #1b2127;
-    color: white;
-}
 
 .logo {
     margin: 0;
@@ -61,13 +65,18 @@ h1 strong {
     border-radius: 10px;
     margin-bottom: 15px;
     padding: 20px;
-    margin: 10px;
-    margin-bottom: 15px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
-.portfolio h2 {
-    margin-top: 0px;
+h2 {
+    text-transform: uppercase;
+    margin: 0px;
     padding: 20px;
+    padding-bottom: 0px;
+    color: #026fff;
 }
 
 .project-details {
@@ -76,4 +85,8 @@ h1 strong {
 
 .project-imageContaner {
     width: 500px;
+}
+
+#eventos {
+    background-color: #fafafa;
 }
