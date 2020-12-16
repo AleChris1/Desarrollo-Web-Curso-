@@ -87,6 +87,18 @@ h2 {
     width: 500px;
 }
 
+.project-course {
+    color: gray;
+}
+
+.project-date {
+    color: gray;
+}
+
+.project-date strong {
+    color: black;
+}
+
 #eventos {
     background-color: #fafafa;
 }
