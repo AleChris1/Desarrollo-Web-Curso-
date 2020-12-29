@@ -146,6 +146,9 @@ h2 {
     padding: 20px;
     padding-bottom: 0px;
     color: #026fff;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
 }
 
 .project-title {
