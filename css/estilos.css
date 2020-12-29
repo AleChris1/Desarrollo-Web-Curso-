@@ -146,6 +146,16 @@ figure {
     margin-bottom: 10px;
 }
 
+.event-list {
+    display: flex;
+}
+
+.event {
+    border: 1px solid red;
+    margin: 10px;
+    width: 480px;
+}
+
 .footer {
     display: flex;
     background-color: #1b2127;
